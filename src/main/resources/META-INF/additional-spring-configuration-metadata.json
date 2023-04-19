@@ -1,0 +1,17 @@
+{"properties": [
+  {
+    "name": "dog.jwt.secret",
+    "type": "java.lang.String",
+    "description": "A description for 'dog.jwt.secret'"
+  },
+  {
+    "name": "dog.jwt.expiration",
+    "type": "java.lang.String",
+    "description": "A description for 'dog.jwt.expiration'"
+  },
+  {
+    "name": "dog.jwt.issuer",
+    "type": "java.lang.String",
+    "description": "A description for 'dog.jwt.issuer'"
+  }
+]}
